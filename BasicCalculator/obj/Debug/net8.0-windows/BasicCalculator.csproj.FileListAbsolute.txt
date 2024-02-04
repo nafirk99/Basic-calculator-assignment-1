@@ -1,0 +1,17 @@
+D:\OstadASPCourse\Basic-calculator-assignment-1\BasicCalculator\bin\Debug\net8.0-windows\BasicCalculator.exe
+D:\OstadASPCourse\Basic-calculator-assignment-1\BasicCalculator\bin\Debug\net8.0-windows\BasicCalculator.deps.json
+D:\OstadASPCourse\Basic-calculator-assignment-1\BasicCalculator\bin\Debug\net8.0-windows\BasicCalculator.runtimeconfig.json
+D:\OstadASPCourse\Basic-calculator-assignment-1\BasicCalculator\bin\Debug\net8.0-windows\BasicCalculator.dll
+D:\OstadASPCourse\Basic-calculator-assignment-1\BasicCalculator\bin\Debug\net8.0-windows\BasicCalculator.pdb
+D:\OstadASPCourse\Basic-calculator-assignment-1\BasicCalculator\obj\Debug\net8.0-windows\BasicCalculator.Form1.resources
+D:\OstadASPCourse\Basic-calculator-assignment-1\BasicCalculator\obj\Debug\net8.0-windows\BasicCalculator.csproj.GenerateResource.cache
+D:\OstadASPCourse\Basic-calculator-assignment-1\BasicCalculator\obj\Debug\net8.0-windows\BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\OstadASPCourse\Basic-calculator-assignment-1\BasicCalculator\obj\Debug\net8.0-windows\BasicCalculator.AssemblyInfoInputs.cache
+D:\OstadASPCourse\Basic-calculator-assignment-1\BasicCalculator\obj\Debug\net8.0-windows\BasicCalculator.AssemblyInfo.cs
+D:\OstadASPCourse\Basic-calculator-assignment-1\BasicCalculator\obj\Debug\net8.0-windows\BasicCalculator.csproj.CoreCompileInputs.cache
+D:\OstadASPCourse\Basic-calculator-assignment-1\BasicCalculator\obj\Debug\net8.0-windows\BasicCalculator.sourcelink.json
+D:\OstadASPCourse\Basic-calculator-assignment-1\BasicCalculator\obj\Debug\net8.0-windows\BasicCalculator.dll
+D:\OstadASPCourse\Basic-calculator-assignment-1\BasicCalculator\obj\Debug\net8.0-windows\refint\BasicCalculator.dll
+D:\OstadASPCourse\Basic-calculator-assignment-1\BasicCalculator\obj\Debug\net8.0-windows\BasicCalculator.pdb
+D:\OstadASPCourse\Basic-calculator-assignment-1\BasicCalculator\obj\Debug\net8.0-windows\BasicCalculator.genruntimeconfig.cache
+D:\OstadASPCourse\Basic-calculator-assignment-1\BasicCalculator\obj\Debug\net8.0-windows\ref\BasicCalculator.dll
